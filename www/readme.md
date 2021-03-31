@@ -5,6 +5,13 @@
 ![image](https://user-images.githubusercontent.com/29325616/113117735-54502480-9241-11eb-9824-253314aa8566.png)
 ![image](https://user-images.githubusercontent.com/29325616/113117745-5619e800-9241-11eb-92a1-c91428be5ca2.png)
 ![image](https://user-images.githubusercontent.com/29325616/113117835-6df16c00-9241-11eb-992a-75af188a7931.png)
+![image](https://user-images.githubusercontent.com/29325616/113118048-a85b0900-9241-11eb-9289-16c03d18a6f8.png)
+
+https://master.dlq5et9sbdlgn.amplifyapp.com/
+
+![image](https://user-images.githubusercontent.com/29325616/113118108-b872e880-9241-11eb-9c3b-794261e949c7.png)
+![image](https://user-images.githubusercontent.com/29325616/113118142-c294e700-9241-11eb-91c8-6ed6aab06002.png)
+
 
 
 
