@@ -66,6 +66,8 @@ Alternatively, you could run the build steps yourself in the CLI:
 
 The AWS SAM CLI comes with abstractions for a number of Lambda runtimes to build your dependencies, and copies the source code into staging folders so that everything is ready to be packaged and deployed. The `sam build` command builds any dependencies that your application has, and copies your application source code to folders under aws-sam/build to be zipped and uploaded to Lambda.
 
+AWS SAM CLI带有许多Lambda运行时的抽象，以构建您的依赖关系，并将源代码复制到暂存文件夹中，以便可以打包和部署所有内容。该sam build命令将构建您的应用程序具有的所有依赖项，并将您的应用程序源代码复制到aws-sam / build下的文件夹中，以将其压缩并上传到Lambda。
+
 ```bash
 sam build --use-container
 ```
